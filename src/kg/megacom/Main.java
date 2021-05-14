@@ -9,6 +9,7 @@ public class Main {
         Student harryPotter = new Student("Harry Potter", "+996555555555", true);
         Student hermione = new Student("Hermione", "+9965559844566", false);
         Student ronWisley = new Student("Ron Wisley", "+996555753495", false);
+        Student nursultan = new Student("Nursultan", "+996550243967", true);
         Teacher SeverusSnape = new Teacher("Severus Snape", 120000);
 
         Course course = new Course();
@@ -18,6 +19,7 @@ public class Main {
         course.addStudent(harryPotter);
         course.addStudent(hermione);
         course.addStudent(ronWisley);
+        course.addStudent(nursultan);
 
         course.addTeacher(SeverusSnape);
 
