@@ -15,3 +15,5 @@ public class Student {
         return this.phoneNumber;
     }
 }
+
+//Microsoft не зло, они просто делают действительно дрянные операционные системы.
