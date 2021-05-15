@@ -31,3 +31,5 @@ public class Main {
         System.out.println("Teacher: " + Arrays.toString(new Teacher[]{course.teacher}));
     }
 }
+
+//Интеллект - это способность не делать работу, но при этом добиваться ее.
