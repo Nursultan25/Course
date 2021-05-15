@@ -31,3 +31,4 @@ public class Main {
         System.out.println("Teacher: " + Arrays.toString(new Teacher[]{course.teacher}));
     }
 }
+
